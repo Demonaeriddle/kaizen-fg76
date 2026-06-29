@@ -1,4 +1,4 @@
-#  
+#  kaizen custom Scripts offers the most advanced kaizen Script, with teleport and no clip. Perfect for dominating any match.
 
 
 
